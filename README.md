@@ -1,6 +1,6 @@
 # Learning Spatio-Temporal Features with Two-Stream Deep 3D CNNs for Lipreading
 
-This repository contains the official PyTorch implementation for "[Learning Spatio-Temporal Features with Two-Stream Deep 3D CNNs for Lipreading](https://bmvc2019.org/wp-content/uploads/papers/0016-paper.pdf)". This paper has been accepted by British Machine Vision Conference ([ICCV](https://bmvc2019.org/)) 2019. If you find the paper or the code useful, please cite our paper:
+This repository contains the official PyTorch implementation for "[Learning Spatio-Temporal Features with Two-Stream Deep 3D CNNs for Lipreading](https://bmvc2019.org/wp-content/uploads/papers/0016-paper.pdf)". This paper has been accepted by British Machine Vision Conference ([BMVC](https://bmvc2019.org/)) 2019. If you find the paper or the code useful, please cite our paper:
 
 ```
 @article{Weng2019_lipreading,
